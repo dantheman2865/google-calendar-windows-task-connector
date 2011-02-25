@@ -1,0 +1,17 @@
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector\bin\Release\GCronWindowsConnector.exe.manifest
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector\bin\Release\GCronWindowsConnector.application
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector\bin\Release\GCronWindowsConnector.exe
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector\bin\Release\GCronWindowsConnector.pdb
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector\bin\Release\Google.GData.AccessControl.dll
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector\bin\Release\Google.GData.Apps.dll
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector\bin\Release\Google.GData.Calendar.dll
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector\bin\Release\Google.GData.Client.dll
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector\bin\Release\Google.GData.Extensions.dll
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector\bin\Release\Google.GData.GoogleBase.dll
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector\bin\Release\Microsoft.Win32.TaskScheduler.dll
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector\bin\Release\Microsoft.Win32.TaskScheduler.xml
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector\obj\Release\GCronWindowsConnector.exe.manifest
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector\obj\Release\GCronWindowsConnector.application
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector\obj\Release\GCronWindowsConnector.exe
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector\obj\Release\GCronWindowsConnector.pdb

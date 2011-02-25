@@ -1,0 +1,14 @@
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\bin\Debug\Project1.exe
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\bin\Debug\Project1.pdb
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\obj\Debug\Project1.exe
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\obj\Debug\Project1.pdb
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\bin\Debug\Google.GData.Apps.dll
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\bin\Debug\Google.GData.Calendar.dll
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\bin\Debug\Google.GData.Client.dll
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\bin\Debug\Google.GData.GoogleBase.dll
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\bin\Debug\Google.GData.Extensions.dll
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\bin\Debug\Interop.TaskScheduler.dll
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\obj\Debug\Interop.TaskScheduler.dll
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\obj\Debug\Project1.csproj.ResolveComReference.cache
