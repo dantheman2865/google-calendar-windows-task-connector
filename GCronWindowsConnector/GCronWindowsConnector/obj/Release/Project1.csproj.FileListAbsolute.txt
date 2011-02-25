@@ -1,0 +1,11 @@
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\bin\Release\Project1.exe
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\bin\Release\Project1.pdb
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\bin\Release\Google.GData.AccessControl.dll
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\bin\Release\Google.GData.Apps.dll
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\bin\Release\Google.GData.Calendar.dll
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\bin\Release\Google.GData.Client.dll
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\bin\Release\Google.GData.GoogleBase.dll
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\bin\Release\Google.GData.Extensions.dll
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\obj\Release\Project1.exe
+C:\Users\dkn\AppData\Local\Temporary Projects\Project1\obj\Release\Project1.pdb

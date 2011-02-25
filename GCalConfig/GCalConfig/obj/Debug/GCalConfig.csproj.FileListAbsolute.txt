@@ -1,0 +1,16 @@
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig\bin\Debug\GCalConfig.exe.manifest
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig\bin\Debug\GCalConfig.application
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig\bin\Debug\GCalConfig.exe
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig\bin\Debug\GCalConfig.pdb
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig\bin\Debug\Google.GData.Calendar.dll
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig\bin\Debug\Google.GData.Client.dll
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig\bin\Debug\Google.GData.Extensions.dll
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig\obj\Debug\GCalConfig.csproj.GenerateResource.Cache
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig\obj\Debug\GCalConfig.exe.manifest
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig\obj\Debug\GCalConfig.application
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig\obj\Debug\GCalConfig.exe
+C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig\obj\Debug\GCalConfig.pdb

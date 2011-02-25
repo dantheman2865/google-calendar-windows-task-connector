@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GCronWindowsConnector">
+</Property><Property Name="Solution File" Value="C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector.sln">
+</Property><Property Name="User Options File" Value="C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\GCronWindowsConnector.suo">
+</Property><Property Name="Date" Value="Wednesday, February 23, 2011">
+</Property><Property Name="Time" Value="13:48 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GCronWindowsConnector.sln" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\Backup\GCronWindowsConnector.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GCronWindowsConnector.suo" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\Backup\GCronWindowsConnector.suo">
+</Event><Event ErrorLevel="0" Project="GCronWindowsConnector" Source="GCronWindowsConnector\GCronWindowsConnector.csproj" Description="Project file successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\Backup\GCronWindowsConnector\GCronWindowsConnector.csproj">
+</Event><Event ErrorLevel="0" Project="GCronWindowsConnector" Source="GCronWindowsConnector\GCronWindowsConnector.csproj.user" Description="Project user file successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\Backup\GCronWindowsConnector\GCronWindowsConnector.csproj.user">
+</Event><Event ErrorLevel="0" Project="GCronWindowsConnector" Source="GCronWindowsConnector\CodeFile1.cs" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\Backup\GCronWindowsConnector\CodeFile1.cs">
+</Event><Event ErrorLevel="0" Project="GCronWindowsConnector" Source="GCronWindowsConnector\DPAPI.cs" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\Backup\GCronWindowsConnector\DPAPI.cs">
+</Event><Event ErrorLevel="0" Project="GCronWindowsConnector" Source="GCronWindowsConnector\GCronWindowsConnector_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCronWindowsConnector\Backup\GCronWindowsConnector\GCronWindowsConnector_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="GCronWindowsConnector" Source="GCronWindowsConnector\GCronWindowsConnector.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="GCronWindowsConnector" Source="GCronWindowsConnector\GCronWindowsConnector.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="GCronWindowsConnector.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GCronWindowsConnector.sln" Description="Converted">
+</Event></UpgradeLog>

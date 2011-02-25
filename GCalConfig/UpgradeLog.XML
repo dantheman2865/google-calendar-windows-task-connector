@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GCalConfig">
+</Property><Property Name="Solution File" Value="C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig.sln">
+</Property><Property Name="User Options File" Value="C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\GCalConfig.suo">
+</Property><Property Name="Date" Value="Thursday, February 10, 2011">
+</Property><Property Name="Time" Value="18:01 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GCalConfig.sln" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCalConfig.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GCalConfig.suo" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCalConfig.suo">
+</Event><Event ErrorLevel="0" Project="GCalConfig" Source="GCalConfig\GCalConfig.csproj" Description="Project file successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCalConfig\GCalConfig.csproj">
+</Event><Event ErrorLevel="0" Project="GCalConfig" Source="GCalConfig\GCalConfig.csproj.user" Description="Project user file successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCalConfig\GCalConfig.csproj.user">
+</Event><Event ErrorLevel="0" Project="GCalConfig" Source="GCalConfig\Form1.cs" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCalConfig\Form1.cs">
+</Event><Event ErrorLevel="0" Project="GCalConfig" Source="GCalConfig\Form1.Designer.cs" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCalConfig\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GCalConfig" Source="GCalConfig\Program.cs" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCalConfig\Program.cs">
+</Event><Event ErrorLevel="0" Project="GCalConfig" Source="GCalConfig\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCalConfig\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GCalConfig" Source="GCalConfig\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCalConfig\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GCalConfig" Source="GCalConfig\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCalConfig\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GCalConfig" Source="GCalConfig\Properties\Settings.settings" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCalConfig\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GCalConfig" Source="GCalConfig\WindowsFormsApplication1_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCalConfig\WindowsFormsApplication1_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="GCalConfig" Source="GCalConfig\GCronWindowsConnector.sln" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCalConfig\GCronWindowsConnector.sln">
+</Event><Event ErrorLevel="0" Project="GCalConfig" Source="GCalConfig\Form1.resx" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCalConfig\Form1.resx">
+</Event><Event ErrorLevel="0" Project="GCalConfig" Source="GCalConfig\Properties\Resources.resx" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCalConfig\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GCalConfig" Source="GCalConfig\GCalConfig.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GCalConfig" Source="GCalConfig\GCalConfig.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="GCronWindowsConnector" Source="..\GCronWindowsConnector\GCronWindowsConnector\GCronWindowsConnector.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="GCronWindowsConnector" Source="..\GCronWindowsConnector\GCronWindowsConnector\GCronWindowsConnector.csproj" Description="Project file successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCronWindowsConnector\GCronWindowsConnector.csproj">
+</Event><Event ErrorLevel="0" Project="GCronWindowsConnector" Source="..\GCronWindowsConnector\GCronWindowsConnector\GCronWindowsConnector.csproj.user" Description="Project user file successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCronWindowsConnector\GCronWindowsConnector.csproj.user">
+</Event><Event ErrorLevel="0" Project="GCronWindowsConnector" Source="..\GCronWindowsConnector\GCronWindowsConnector\CodeFile1.cs" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCronWindowsConnector\CodeFile1.cs">
+</Event><Event ErrorLevel="0" Project="GCronWindowsConnector" Source="..\GCronWindowsConnector\GCronWindowsConnector\GCronWindowsConnector_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\dkn\Documents\Visual Studio 2008\Projects\GCalConfig\Backup\GCronWindowsConnector\GCronWindowsConnector_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="GCronWindowsConnector" Source="..\GCronWindowsConnector\GCronWindowsConnector\GCronWindowsConnector.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GCronWindowsConnector" Source="..\GCronWindowsConnector\GCronWindowsConnector\GCronWindowsConnector.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GCalConfig.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GCalConfig.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GCalConfig" Source="GCalConfig\GCalConfig.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GCronWindowsConnector" Source="..\GCronWindowsConnector\GCronWindowsConnector\GCronWindowsConnector.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
